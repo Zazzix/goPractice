@@ -1,1 +1,1 @@
-# goPractice
+Small projects to practice.
